@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a [MERN Stack]
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and get into the cloud computing.
 - ⚡ Fun fact: I loves to Sing [Thekartikeytyagi] 
 
 <!-- ### Spotify Playing 🎧
