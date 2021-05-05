@@ -57,10 +57,6 @@
 
 ---
 
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="My github stats" src="https://github-readme-stats.kartikey110813.vercel.app/api?username=kartikey110813&show_icons=true&hide_border=true" />
-</details>
-
 
 [website]: https://teamdowhile.com
 [twitter]: https://twitter.com/thekartikey11
