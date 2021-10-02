@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartikey Tyagi - [website] 👋
 
-[![Website](https://img.shields.io/website?label=teamdowhile.com&style=for-the-badge&url=https%3A%2F%2Fteamdowhile.com)](https://teamdowhile.com)
+[![Website](https://img.shields.io/website?label=kartikeytyagi&style=for-the-badge&url=https%3A%2F%2Fkartikeytyagi.codes)](kartikeytyagi.codes)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a  Developer with Entrepreneurial mindset!
@@ -14,7 +14,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="teamdowhile.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="kartikeytyagi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img align="left" alt="thekartikeytyagi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][thekartikeytyagi]
@@ -58,7 +58,7 @@
 ---
 
 
-[website]: https://teamdowhile.com
+[website]: kartikeytyagi.codes
 [twitter]: https://twitter.com/thekartikey11
 [youtube]: https://youtube.com/c/teamdowhile
 [instagram]: https://instagram.com/thekartikeytyagi
