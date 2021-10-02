@@ -1,6 +1,6 @@
 ### Hi there, I'm Kartikey Tyagi - [website] 👋
 
-[![Website](https://img.shields.io/website?label=kartikeytyagi&style=for-the-badge&url=https%3A%2F%2Fkartikeytyagi.codes)](kartikeytyagi.codes)
+[![Website](https://img.shields.io/website?label=kartikeytyagi&style=for-the-badge&url=https%3A%2F%2Fkartikeytyagi.codes)](https://www.kartikeytyagi.codes/)
 <!-- [![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
 
 ## I'm a  Developer with Entrepreneurial mindset!
@@ -58,7 +58,7 @@
 ---
 
 
-[website]: kartikeytyagi.codes
+[website]: https://www.kartikeytyagi.codes/
 [twitter]: https://twitter.com/thekartikey11
 [youtube]: https://youtube.com/c/teamdowhile
 [instagram]: https://instagram.com/thekartikeytyagi
