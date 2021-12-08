@@ -15,7 +15,6 @@
 ### Connect with me:
 
 [<img align="left" alt="kartikeytyagi" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 [<img align="left" alt="thekartikeytyagi | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][thekartikeytyagi]
 [<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -47,13 +46,12 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Blog on Android](https://teamdowhile.com/blog/blog.html)
-- [Blog on Autonomous Vehicles](https://teamdowhile.com/blog/Autonomous-vehicles-self-reliance-vehicles.html)
-- [Blog on NLP](https://teamdowhile.com/blog/NLP.html)
-- 
+- [Netflix-pays-over-1-billion-year-to-Amazon](https://kartikeytyagi.medium.com/netflix-pays-over-1-billion-year-to-amazon-1c4f4a69be63)
+- [Technology-empowering-Cryptocurrency](https://kartikeytyagi.medium.com/technology-empowering-cryptocurrency-acc93a462730)
+- [Quantum-Computers-Different-than-Normal-Computers](https://kartikeytyagi.medium.com/quantum-computers-different-than-normal-computers-656ce7f8ae9f)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://teamdowhile.com)
+➡️ [more blog posts...](https://kartikeytyagi.medium.com/)
 
 ---
 
@@ -62,6 +60,6 @@
 [twitter]: https://twitter.com/thekartikey11
 [youtube]: https://youtube.com/c/teamdowhile
 [instagram]: https://instagram.com/thekartikeytyagi
-[linkedin]: https://www.linkedin.com/in/kartikey-tyagi-a1a450197/
+[linkedin]: https://www.linkedin.com/in/kartikeytyagi/
 [thekartikeytyagi]: https://youtube.com/c/thekartikeytyagi
 [github]:https://github.com/kartikey110813
