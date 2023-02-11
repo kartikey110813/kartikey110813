@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN Stack<br>🚀 I love to work as a Freelance web developer<br>🌱 I’m currently learning Devops and stuff<br>👯 I’m looking to collaborate with other Developers<br>🥅 2023 Goals: Contribute to Open Source projects and involve in communities<br>😂 Fun fact: I love to Sing 
+🔭 I’m currently working on MERN Stack from last 3 years<br>🚀 I love to work as a Freelance web developer<br>🌱 I’m currently learning Devops and stuff<br>👯 I’m looking to collaborate with other Developers<br>🥅 2023 Goals: Contribute to Open Source projects and involve in communities<br>😂 Fun fact: I love to Sing 
 
 
 ## 🌐 Socials:
