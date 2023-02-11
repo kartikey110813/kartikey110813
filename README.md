@@ -1,6 +1,5 @@
 # Hey👋, I am Kartikey Tyagi
-![image](https://user-images.githubusercontent.com/59220409/218240299-3464a6e6-8b47-4c45-8540-8c3681063f22.png)
-
+![image](https://user-images.githubusercontent.com/59220409/218240459-f3f785b7-08bf-4c9a-8d61-ab1d2ec1e8a3.png)
 
 ## 💫 About Me:
 🔭 I’m currently working on MERN Stack from last 3 years<br>🚀 I love to work as a Freelance web developer<br>🌱 I’m currently learning Devops and stuff<br>👯 I’m looking to collaborate with other Developers<br>🥅 2023 Goals: Contribute to Open Source projects and involve in communities<br>😂 Fun fact: I love to Sing 
