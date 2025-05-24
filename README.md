@@ -10,7 +10,7 @@ Driven by a relentless curiosity and a commitment to continuous improvement, I a
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeytyagi) [![Website](https://img.shields.io/badge/Website-KT-green)](https://kartikey-tyagi.web.app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kartikeytyagi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kartikeyty11) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kartikeytyagi) [![Website](https://img.shields.io/badge/Website-KT-green)](https://kartikey-tyagi.web.app) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kartikeytyagi) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/thekartikey11) 
 
 
 # 💻 Tech Stack:
